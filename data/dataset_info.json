@@ -20,7 +20,7 @@
     "file_sha1": "ffe3ecb58ab642da33fbb514d5e6188f1469ad40"
   },
   "chatmed": {
-    "hf_hub_url": "michaelwzhu/ChatMed_Consult_Dataset",
+    "hf_hub_url": "michaelwzhu/ChatMed_Consult_Dataset"
   },
   "oaast_sft": {
     "file_name": "oaast_sft.json",
