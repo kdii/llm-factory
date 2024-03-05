@@ -1,1 +1,5 @@
-test new file
+"dataset_name": {
+  "hf_hub_url": "michaelwzhu/ChatMed_Consult_Dataset",
+  "ranking": "false",
+  "formatting": "alpaca",
+}
