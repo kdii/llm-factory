@@ -21,6 +21,10 @@
   },
   "chatmed": {
     "hf_hub_url": "michaelwzhu/ChatMed_Consult_Dataset"
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
   },
   "oaast_sft": {
     "file_name": "oaast_sft.json",
